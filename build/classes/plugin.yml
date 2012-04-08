@@ -1,0 +1,8 @@
+name: Academia
+version: 0.0.1
+description: A plugin that adds class and skill functionality to Minecraft.
+startup: POSTWORLD
+author: TotalInfinity
+main: com.github.TotalInfinity.Academia.Academia
+database: false
+commands:
